@@ -1,0 +1,61 @@
+.bir{
+    background-color: rgb(223, 221, 221);
+    color: rgb(32, 32, 119);
+    text-align: center;
+    border-radius: 330px;
+    border: 2px solid red;
+}
+.sp{
+background-color: yellow;
+color: black;
+}
+.spn{
+background-color: yellow;
+color: green    ;
+text-align: center;
+
+}
+.dv{
+    background-color: black;
+ border-radius: 10px;
+    text-align: center;
+}
+.inp{
+  width: 90%;
+  height: 35px;
+}
+.pp{
+    font-size: larger;
+    color: green;
+}
+.btn{
+    background-color: rgb(84, 116, 162);
+    text-align: center;
+height: 35px;
+width: 210px;
+
+}
+th,td{
+    color: white;
+    border: 0.5px solid rgb(128, 118, 118) ;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+table{
+    border-collapse: collapse;
+    width: 1300px;
+    height: 100px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
